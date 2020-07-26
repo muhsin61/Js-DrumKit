@@ -1,5 +1,5 @@
 
-soundsKey ={
+let soundsKey ={
     65:"boom",
     83:"clap",
     68:"hihat",
